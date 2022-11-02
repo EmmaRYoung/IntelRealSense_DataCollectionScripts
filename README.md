@@ -10,15 +10,16 @@ Examples of human movement trials I collected using the Intel Camera. Here is th
 
 Example subject data of a lunge
 
-![](https://media.giphy.com/media/CrV2xZA1EIrxVHShlt/giphy.gif)
+<img src="https://media.giphy.com/media/CrV2xZA1EIrxVHShlt/giphy.gif" width="1000" />
 
 Example subject data of a sitting to stand activity from a low chair
 
-![](https://media.giphy.com/media/yQ5QKwmqPrwjI2WDXH/giphy.gif)
+<img src="https://media.giphy.com/media/yQ5QKwmqPrwjI2WDXH/giphy.gif" width="1000" />
 
 Example subject data of a sitting to stand activity from a high chair
 
-![](https://media.giphy.com/media/P0wzgwV7f8YxISkB48/giphy.gif)
+<img src="https://media.giphy.com/media/P0wzgwV7f8YxISkB48/giphy.gif" width="1000" />
+
 
 
 
